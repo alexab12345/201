@@ -73,8 +73,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #bd5d38;
-  --bs-link-hover-color: #974a2d;
+  --bs-link-color: burlywood;
+  --bs-link-hover-color: burlywood;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -6700,14 +6700,14 @@ textarea.form-control-lg {
   color: #bd5d38 !important;
 }
 .link-primary:hover, .link-primary:focus {
-  color: #ca7d60 !important;
+  color: burlywood !important;
 }
 
 .link-secondary {
   color: #6c757d !important;
 }
 .link-secondary:hover, .link-secondary:focus {
-  color: #565e64 !important;
+  color: burlywood !important;
 }
 
 .link-success {
@@ -10937,7 +10937,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: burlywood;
 }
 
 .dev-icons {
